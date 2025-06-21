@@ -1,0 +1,7 @@
+#dropZone {
+  min-height: 100px;
+  line-height: 100px;
+}
+#dropZone.drag-over {
+  background-color: #f0f8ff;
+}

@@ -1,0 +1,5 @@
+<theme>
+  <title>{{blog_title}}</title>
+  <author>{{author_name}}</author>
+  <style>minimalist</style>
+</theme>
